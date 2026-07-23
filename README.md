@@ -83,13 +83,13 @@ El backend expone operaciones RESTful probadas y documentadas mediante **Swagger
     <td>Respuesta controlada <code>404 Not Found</code> confirmando que el ID 1 ya no existe.</td>
   </tr>
     <tr>
-    <td align="center" width="50%"><b>07. Base de datos SQL Server</b></td>
+    <td align="center" width="50%"><b>09. Base de datos SQL Server</b></td>
   </tr>
   <tr>
     <td><img src="docs/img/bd.png" alt="GET 404 Not Found" width="100%"/></td>
   </tr>
   <tr>
-    <td>muestra las </code> tabla de los productos eliminados y creados .</td>
+    <td>Muestra las </code> tabla de los productos eliminados y creados .</td>
   </tr>
 </table>
 
