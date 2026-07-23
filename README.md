@@ -82,6 +82,17 @@ El backend expone operaciones RESTful probadas y documentadas mediante **Swagger
     <td>Eliminación exitosa <code>204 No Content</code> del registro con ID 1.</td>
     <td>Respuesta controlada <code>404 Not Found</code> confirmando que el ID 1 ya no existe.</td>
   </tr>
+    <tr>
+    <td align="center" width="50%"><b>07. DELETE — Eliminar Registro</b></td>
+    <td align="center" width="50%"><b>08. GET por ID — Validar Error 404 (Not Found)</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/img/Delete-1-prueba.png" alt="SQL Server" width="100%"/></td>
+    <td><img src="docs/img/bd.png" alt="GET 404 Not Found" width="100%"/></td>
+  </tr>
+  <tr>
+    <td>Base de datos</code> tabla de los productos eliminados y creados .</td>
+  </tr>
 </table>
 
 ---
