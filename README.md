@@ -87,7 +87,6 @@ El backend expone operaciones RESTful probadas y documentadas mediante **Swagger
     <td align="center" width="50%"><b>08. GET por ID — Validar Error 404 (Not Found)</b></td>
   </tr>
   <tr>
-    <td><img src="docs/img/Delete-1-prueba.png" alt="SQL Server" width="100%"/></td>
     <td><img src="docs/img/bd.png" alt="GET 404 Not Found" width="100%"/></td>
   </tr>
   <tr>
